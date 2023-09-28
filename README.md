@@ -1,1 +1,1 @@
-# Markov_Chain_Composer
+Created music lyrics with the Markov Chain Composer in Python. This project uses Markov chain modeling to generate unique musical compositions, offering an intriguing exploration of algorithmic music creation.
